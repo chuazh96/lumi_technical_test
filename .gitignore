@@ -44,4 +44,4 @@ app.*.map.json
 /android/app/release
 
 #API Keys, not to be pushed
-/lib/auth/secrets.dart
+/lib/auth/apikeys.dart

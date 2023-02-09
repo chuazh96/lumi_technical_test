@@ -1,6 +1,6 @@
 import 'package:gsheets/gsheets.dart';
 
-import 'package:lumi_technical_test/auth/secrets.dart';
+import 'package:lumi_technical_test/auth/apikeys.dart';
 
 class NewsData {
   final String title;
